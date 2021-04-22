@@ -1,0 +1,8 @@
+    /* .container{
+        background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(230,166,17,0.9724264705882353) 35%, rgba(0,212,255,1) 100%);
+    } */
+    #cardBody:hover{
+        box-shadow: 4px  4px  4px  4px  grey;
+        transition: 0.5s;
+    }
